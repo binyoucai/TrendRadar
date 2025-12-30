@@ -13,7 +13,7 @@ on:
     #    - "Check In" resets the cycle (restarts 7-day countdown, not cumulative)
     #
     # 💡 设计初衷 / Why this design:
-    #    如果 7 天都忘了签到，或许这些资讯对你来说并非刚需
+    #    如果 7 天都忘了签到，或许这些资讯对你来说并非刚需 6666
     #    适时的暂停，能帮你从信息流中抽离，给大脑留出喘息的空间
     #    If you forget for 7 days, maybe you don't really need it
     #    A timely pause helps you detach from the stream and gives your mind space
